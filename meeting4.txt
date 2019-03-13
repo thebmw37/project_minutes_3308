@@ -1,0 +1,12 @@
+Attendees: Nicholas LaMonica, Marc Larock, Trevor Hunter, Bryce Woods, Waleed Elhage
+
+Meeting Activities:
+-Designing the different pages for the website
+-Writing the code for the pages
+-Figuring out what design elements will appear on multiple pages
+
+Meeting Time & Minutes:
+Tuesday Mar. 12, 1-3pm
+CSEL
+2 hours
+
