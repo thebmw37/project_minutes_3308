@@ -1,0 +1,11 @@
+Attendees: Nicholas LaMonica, Marc Larock, Trevor Hunter, Bryce Woods
+
+Meeting Activities:
+-Planning for setting up databases
+-Decided to use Heroku for databases
+-Assigned tasks for bug fixes on pages
+
+Meeting Time & Minutes:
+Thursday Apr. 4, 3:00-5:00pm
+CSEL
+2 hours
